@@ -1,0 +1,7 @@
+{
+  "name": "LUC-AI Consulting",
+  "description": "An interactive and smooth website for an AI consulting business, demonstrating various AI solutions like voice agents and business automation, built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
